@@ -1,5 +1,4 @@
 ﻿# Ai-text-img-summ-postman
 
-new file
-
+postman project with text summarisation using AI
  
